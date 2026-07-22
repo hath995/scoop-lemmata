@@ -1,5 +1,5 @@
 {
-    "version": "0.1.17",
+    "version": "0.1.18",
     "description": "lem — a verified package manager for Dafny (bundles its own pinned Dafny+Z3)",
     "homepage": "https://lemmata.sh",
     "license": "Proprietary",
@@ -10,8 +10,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hath995/lemmata-releases/releases/download/v0.1.17/lem-0.1.17-win-x64.zip",
-            "hash": "be1d0a4ec7e3e0ffc9b8d78295f1c4725161f547094e50cbe57b9b97f1712f26"
+            "url": "https://github.com/hath995/lemmata-releases/releases/download/v0.1.18/lem-0.1.18-win-x64.zip",
+            "hash": "873ec52e8050c392bb0446859c65830d6a2e6c82634796d5b7663bfc4ca471ec"
         }
     },
     "bin": "lem.exe",
